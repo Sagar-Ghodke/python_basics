@@ -1,0 +1,6 @@
+studentID,name,rollno,Email,Address,mobileno,P1,p2,p3,p4,total,percentage,result
+1,sagar,38,13sagarbg@gmail.com,pimpri,1234,90,50,99,100,339,84.75,pass
+2,jyotsna,12,xyz,"pimpri,pune",1234,80,99,88,93,360,90,pass
+3,abc,23,dfsdf@gmail.com,pune,24424,24,23,10,0,57,14.25,fail
+4,dafs,12,afafsd,sdfsd,2536,32,4,2,46,84,21,fail
+5,qds,24,sdgfsd,sfsdf,24,24,235,35,3,297,74.25,pass
