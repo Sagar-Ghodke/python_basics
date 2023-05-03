@@ -1,6 +1,6 @@
 # String slicing
 
-# name = "prashantjha" #this is our sting
+# name = "cyberenvy" #this is our sting
 # print(name[0]) #p
 # print(name[1]) #r
 # print(name[-1])#T

@@ -7,7 +7,7 @@
     # list by nature growable
     # mutable
     
-# mylist = ["prashant", "Ashish", "Rahul", "ankit","komal", "ankush", "Ashish",77, "sagar", "jyotsna", "poornima"]
+# mylist = ["prashant", "Ashish", "Rahul", "ankit","komal", "ankush", "Ashish",77, "sagar", "vishnu", "poornima"]
 # print(mylist)
 # print(type(mylist))
 # print(mylist[0])
