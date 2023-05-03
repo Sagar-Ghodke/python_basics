@@ -91,7 +91,7 @@ note: cant use break and continue conditional statements without loops
 
 
 
-# name = "prashant"
+# name = "cyber"
 # #01234567
 # i =0
 # for x in name : #x
@@ -117,7 +117,7 @@ note: cant use break and continue conditional statements without loops
 
 
 
-# for ch in 'prashantjha': # ch=0,1 print(ch)
+# for ch in 'cyberenvy': # ch=0,1 print(ch)
 #     if ch=='h' or ch == 'j':
 #         break
 #         print('Current Letter :', ch)

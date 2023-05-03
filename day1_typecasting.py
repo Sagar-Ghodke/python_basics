@@ -12,7 +12,7 @@
 # print (int(False)) #=0
 # # print(int("4.22"))
 # print(int("4"))
-# print(int("prashant"))
+# print(int("cyber"))
 
 # we can not convert complex value to int
 #  we can not convert floating point value string to int
@@ -54,5 +54,5 @@
 # print(bool (False))
 # print(bool (True))
 # print (bool(""))
-# print (bool("prashant"))
+# print (bool("cyber"))
 # Note: = if we pass zero, empty string and False value then it will be false

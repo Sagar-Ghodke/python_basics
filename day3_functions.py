@@ -92,7 +92,7 @@ can be passed as arguments to other functions'''
 # def func(fname,lname): #called function 
 #     print("Hi", fname)
 #     print("Hi", lname)
-# func(fname="prashant",lname="jha") #calling function
+# func(fname="cyber",lname="envy") #calling function
 
 # fname = input("Enter first name") #by user input
 # lname = input("Enter last name")
@@ -116,13 +116,13 @@ can be passed as arguments to other functions'''
 # def func (**name): # called function 
 #     print("my name is ",name)
     
-# func(fname = "prashant", Iname = "jha") # calling function
+# func(fname = "cyber", Iname = "envy") # calling function
 
 
 '''variable length argument/ variable number of argument'''
 # def name (*name):
 #     print(name)
-# name("Ashish", "prashant", "Tushar", 1001)
+# name("Ashish", "cyber", "Tushar", 1001)
 
 
 '''# Anonymous Functions: Sometimes we can declare a function without any name, 

@@ -137,7 +137,7 @@ Directly we are getting here reusability concept
         
 # class Student (College): # child class 
 #     def student_info(self): 
-#         print("Name: Prashant Jha") 
+#         print("Name: cyber envy") 
 #         print("Branch: Mechanical")
         
 # obj = Student()
@@ -154,7 +154,7 @@ Directly we are getting here reusability concept
         
 # class Student (College): #second class second - level 
 #     def student_info(self):
-#         print("Name: Prashant Jha") 
+#         print("Name: cyber envy") 
 #         print("Branch: Mechanical")
         
 # class Exam (Student): #child class 

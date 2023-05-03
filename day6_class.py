@@ -138,8 +138,8 @@
 #declaring instance variable inside a constructor by using self variable.
 # class Student:
 #     def __init__(self):
-#         self.s_name ="prashant"
-#         self.l_name ="jha" # instance variable
+#         self.s_name ="cyber"
+#         self.l_name ="envy" # instance variable
 #         self.s_rollno = 101
 #         self.s_branch = "CS"
 #         self.s_mb=1234567890
@@ -152,7 +152,7 @@
 # #declaring instance variable inside a instance method by using self variable.
 # class Student:
 #     def __init__(self):
-#         self.s_name = "prashant"
+#         self.s_name = "cyber"
 #         self.s_rollno= 101
 #         self.s_branch="CS"
         
@@ -168,7 +168,7 @@
 # declaring instance variable outside a class by using object
 # class Student:
 #     def __init__(self):
-#         self.s_name ="prashant"
+#         self.s_name ="cyber"
 #         self.s_rollno= 101
         
 #     def getdata(self):
@@ -240,7 +240,7 @@ one copy will be created and it is accessble for every object of the class'''
         
 #     def display (self): # instance method 
 #         print(self.name," ", self.rollno, " ", self.mob)
-# stud = Student ("prashant", 1001, 6464646464) 
+# stud = Student ("cyber", 1001, 6464646464) 
 # stud.display()
 
 
@@ -258,5 +258,5 @@ one copy will be created and it is accessble for every object of the class'''
 #     def contact_detail (mobil_no, rollno):
 #         print("your contact detail-", mobil_no, rollno)
         
-# Student.get_personal_detail("prashant", "jha")
+# Student.get_personal_detail("cyber", "envy")
 # Student.contact_detail (5456454646, 1001)

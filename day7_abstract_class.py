@@ -20,7 +20,7 @@
 #     def placement(self): 
 #         print("Python placement students")
         
-# class Prashant (Programming): 
+# class cyber (Programming): 
 #     def training(self): 
 #         print("Machine learning") 
 #     def placement(self): 

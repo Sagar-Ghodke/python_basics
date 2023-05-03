@@ -26,7 +26,7 @@ note : file must be close while operating
 # with open("myfile.txt", "w") as f:
 #     f.write("amit\n")
 #     f.write("ashish\n")
-#     f.write("Prashant\n")
+#     f.write("cyber\n")
 #     print("\n Data writing done.")
 #     print("file closed: ", f.closed)
 # print("file closed: ",f.closed)
@@ -41,7 +41,7 @@ note : file must be close while operating
 # # a.writerow(["studentID", "rollno", "name", "mobileno"])
 # # studentid= 1
 # # rollno=1001
-# # name= "prashant"
+# # name= "cyber"
 # # mobileno =646464646
 # studentid=int(input("Enter student id: "))
 # rollno = int(input("Enter your roll number"))

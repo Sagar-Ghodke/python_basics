@@ -7,7 +7,7 @@
     # list by nature growable
     # mutable
     
-# mylist = ["prashant", "Ashish", "Rahul", "ankit","komal", "ankush", "Ashish",77, "sagar", "vishnu", "poornima"]
+# mylist = ["cyber", "Ashish", "Rahul", "ankit","komal", "ankush", "Ashish",77, "sagar", "vishnu", "poornima"]
 # print(mylist)
 # print(type(mylist))
 # print(mylist[0])
@@ -44,7 +44,7 @@
 
 # multidimentional list dictionary
 
-# mylist = [['prashant', 'jha'], ['85.56'], [440022,"yyy"]]
+# mylist = [['cyber', 'envy'], ['85.56'], [440022,"yyy"]]
 # print("example of multidimensional list: ")
 # print(mylist)
 # #print (mylist [row][col])
@@ -54,7 +54,7 @@
 # print (mylist [2][0])
 # print (mylist [2][1])
 
-# list1= ['prashant', 'jha']
+# list1= ['cyber', 'envy']
 # print(list1*2)#print 2 times
 # list2=[290,29]
 # print(list1+list2) #adds 2 lists
@@ -90,7 +90,7 @@
     # list by nature growable
     # immutable-cannot change values
     
-# mytuple=("prashant", "Ashish", "Rahul", "sandip", "komal", "ankush", "rajesh")
+# mytuple=("cyber", "Ashish", "Rahul", "sandip", "komal", "ankush", "rajesh")
 # print(mytuple)
 # print(type(mytuple))
 # mytuple[2]="sunil" 
