@@ -22,7 +22,7 @@ import mysql.connector as sqlcon
 try:
     my_db = sqlcon.connect(host = "localhost",\
         user = "root",\
-            passwd = "Sagar@1254",\
+            passwd = "xxxxxxxx",\
                 database = "DPU_training")
     print("Successfully connected with the databases.")
     
